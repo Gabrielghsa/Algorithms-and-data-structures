@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\bin\Debug\net10.0\Ex01.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\bin\Debug\net10.0\Ex01.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\bin\Debug\net10.0\Ex01.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\bin\Debug\net10.0\Ex01.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\bin\Debug\net10.0\Ex01.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\refint\Ex01.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\Ex01.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\Ex01\obj\Debug\net10.0\ref\Ex01.dll

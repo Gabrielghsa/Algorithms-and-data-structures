@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\bin\Debug\net10.0\SomaFração.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\bin\Debug\net10.0\SomaFração.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\bin\Debug\net10.0\SomaFração.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\bin\Debug\net10.0\SomaFração.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\bin\Debug\net10.0\SomaFração.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\refint\SomaFração.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\SomaFração.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\AED exercises\Algorithms-and-data-structures\Revisão ATP\SomaFração\obj\Debug\net10.0\ref\SomaFração.dll
