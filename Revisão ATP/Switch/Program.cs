@@ -17,6 +17,12 @@ class program
                 Console.BackgroundColor = ConsoleColor.Blue;
                 Console.ForegroundColor = ConsoleColor.Black;
                 break;
+
+            case 3:
+                Console.Beep(1000, 1500);
+                Console.Beep(1000, 1500);
+                Console.Beep(1000, 1500);
+                break;
             default:
                 Console.WriteLine("Opção Inválida !!!");
                 break;

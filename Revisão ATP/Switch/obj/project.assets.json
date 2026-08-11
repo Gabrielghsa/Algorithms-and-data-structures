@@ -8,24 +8,31 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ghass\\.nuget\\packages\\": {}
+    "C:\\Users\\ghass\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\AED exercises\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
       "projectName": "Switch",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\AED exercises\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
+      "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\AED exercises\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
