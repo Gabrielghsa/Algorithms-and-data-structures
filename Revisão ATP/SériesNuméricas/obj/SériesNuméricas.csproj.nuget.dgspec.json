@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
         "projectName": "SériesNuméricas",
-        "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

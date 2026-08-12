@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
         "projectName": "Repetições",
-        "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
