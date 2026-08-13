@@ -38,8 +38,8 @@ class program
 
                     if (!jaExiste)
                     {
-                        V[x] = R[i];
-                        x++;
+                        V[x++] = R[i];
+                        
                     }
                 }
             }
