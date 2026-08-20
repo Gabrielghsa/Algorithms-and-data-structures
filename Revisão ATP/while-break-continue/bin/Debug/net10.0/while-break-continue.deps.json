@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "while-break-continue/1.0.0": {
+        "runtime": {
+          "while-break-continue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "while-break-continue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

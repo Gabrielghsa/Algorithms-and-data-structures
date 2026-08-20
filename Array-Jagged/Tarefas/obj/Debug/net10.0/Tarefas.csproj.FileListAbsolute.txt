@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\bin\Debug\net10.0\Tarefas.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\bin\Debug\net10.0\Tarefas.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\bin\Debug\net10.0\Tarefas.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\bin\Debug\net10.0\Tarefas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\bin\Debug\net10.0\Tarefas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\refint\Tarefas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\Tarefas.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Tarefas\obj\Debug\net10.0\ref\Tarefas.dll

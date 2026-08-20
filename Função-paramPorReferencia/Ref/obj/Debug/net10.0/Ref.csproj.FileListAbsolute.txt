@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\bin\Debug\net10.0\Ref.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\bin\Debug\net10.0\Ref.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\bin\Debug\net10.0\Ref.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\bin\Debug\net10.0\Ref.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\bin\Debug\net10.0\Ref.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\refint\Ref.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\Ref.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Função-paramPorReferencia\Ref\obj\Debug\net10.0\ref\Ref.dll

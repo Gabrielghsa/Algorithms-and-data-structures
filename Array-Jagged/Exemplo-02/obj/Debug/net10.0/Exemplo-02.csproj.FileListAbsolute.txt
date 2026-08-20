@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\bin\Debug\net10.0\Exemplo-02.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\bin\Debug\net10.0\Exemplo-02.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\bin\Debug\net10.0\Exemplo-02.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\bin\Debug\net10.0\Exemplo-02.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\bin\Debug\net10.0\Exemplo-02.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\refint\Exemplo-02.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\Exemplo-02.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Array-Jagged\Exemplo-02\obj\Debug\net10.0\ref\Exemplo-02.dll

@@ -66,6 +66,7 @@ class Program
         double[] altura = new double[5];
         string[] nome = new string[5];
         char[] sexo = new char[5];
+
         for (int i = 0; i < idade.Length; i++) {
             Console.Write($"Informe o nome da {i+1}° pessoa: \n");
             nome[i] = Console.ReadLine();
@@ -81,6 +82,7 @@ class Program
         Console.Write($"A menor altura é: {MenorAltura(altura)}\n");
         Console.Write($"A média de altura das mulheres é: {mediaAlturaFem(altura, sexo)}\n");
         Console.Write($"A quantidade de homens com idade entre 40 e 50 é: {qtdHomens(idade, sexo)}");
+        
         Console.ReadKey();
     }
 }
