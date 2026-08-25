@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Atividade-Prática-1-Nivelamento/1.0.0": {
+        "runtime": {
+          "Atividade-Prática-1-Nivelamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade-Prática-1-Nivelamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

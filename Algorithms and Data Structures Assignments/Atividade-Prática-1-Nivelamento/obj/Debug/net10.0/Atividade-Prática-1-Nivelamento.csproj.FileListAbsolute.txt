@@ -1,0 +1,15 @@
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.AssemblyInfoInputs.cache
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.AssemblyInfo.cs
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.sourcelink.json
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\bin\Debug\net10.0\Atividade-Prática-1-Nivelamento.exe
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\bin\Debug\net10.0\Atividade-Prática-1-Nivelamento.deps.json
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\bin\Debug\net10.0\Atividade-Prática-1-Nivelamento.runtimeconfig.json
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\bin\Debug\net10.0\Atividade-Prática-1-Nivelamento.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\bin\Debug\net10.0\Atividade-Prática-1-Nivelamento.pdb
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\refint\Atividade-Prática-1-Nivelamento.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.pdb
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\Atividade-Prática-1-Nivelamento.genruntimeconfig.cache
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Atividade-Prática-1-Nivelamento\obj\Debug\net10.0\ref\Atividade-Prática-1-Nivelamento.dll
