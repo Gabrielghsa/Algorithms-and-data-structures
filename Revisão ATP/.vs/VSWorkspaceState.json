@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Maior-Substring",
+    "\\maiorElemento",
     "\\TriânguloComNúmeros"
   ],
-  "SelectedNode": "\\Ex04",
+  "SelectedNode": "\\Maior-Substring\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

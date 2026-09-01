@@ -3,7 +3,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        int qtdLinhas, qtdElementos = 0, somaTotal = 0, somaLinha;
+        //Somando arrayJagged
+        int qtdLinhas, qtdElementos, somaTotal = 0, somaLinha;
         
 
         Console.Write("Informe a quantidade de linhas: ");
@@ -22,12 +23,8 @@ class Program
                 nums[i][j] = int.Parse(Console.ReadLine());
                 somaTotal += nums[i][j];
                 somaLinha += nums[i][j];
-
-                
             }
             somaLinhas[i] = somaLinha;
-
-
         }
 
         for (int i = 0; i < nums.Length; i++) {

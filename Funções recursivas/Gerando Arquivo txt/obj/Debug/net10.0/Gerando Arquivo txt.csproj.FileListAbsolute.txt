@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\bin\Debug\net10.0\Gerando Arquivo txt.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\bin\Debug\net10.0\Gerando Arquivo txt.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\bin\Debug\net10.0\Gerando Arquivo txt.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\bin\Debug\net10.0\Gerando Arquivo txt.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\bin\Debug\net10.0\Gerando Arquivo txt.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\refint\Gerando Arquivo txt.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\Gerando Arquivo txt.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Gerando Arquivo txt\obj\Debug\net10.0\ref\Gerando Arquivo txt.dll
