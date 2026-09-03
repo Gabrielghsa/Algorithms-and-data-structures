@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\bin\Debug\net10.0\Maior elemento.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\bin\Debug\net10.0\Maior elemento.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\bin\Debug\net10.0\Maior elemento.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\bin\Debug\net10.0\Maior elemento.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\bin\Debug\net10.0\Maior elemento.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\refint\Maior elemento.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\Maior elemento.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Maior elemento\obj\Debug\net10.0\ref\Maior elemento.dll

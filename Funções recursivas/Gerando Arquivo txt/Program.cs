@@ -10,16 +10,14 @@ class Program
         {
             using (StreamReader arquivo = File.OpenText(caminhoArquivo)) {
                 string linha;
-                while ((linha = arquivo.ReadLine()) != null) {
+                while ((linha = arquivo.ReadLine()) != null) 
                     arqGerado.WriteLine(linha);
-                }
             }
             GerarArquivo(numeroArquivo + 1);
         }
     }
         static void Main(string[] args)
         {
-
             GerarArquivo(1);
             arqGerado.Close();
         }

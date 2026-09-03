@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SérieFrações")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c153cda5483a1718d5d5b83856a7eff9e8e8392")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2cbb1933d4cf3b11fb9109e60180624513ec985")]
 [assembly: System.Reflection.AssemblyProductAttribute("SérieFrações")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SérieFrações")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
