@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\",
+  "WorkspaceRootPath": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Soma-Vetor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Fourier\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fourier\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Fatorial\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fatorial\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Soma-Vetor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Soma-Vetor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Soma-Vetor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Fourier\\Program.cs",
+              "RelativeDocumentMoniker": "Fourier\\Program.cs",
+              "ToolTip": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Fourier\\Program.cs",
+              "RelativeToolTip": "Fourier\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:27:03.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Fatorial\\Program.cs",
+              "RelativeDocumentMoniker": "Fatorial\\Program.cs",
+              "ToolTip": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Fatorial\\Program.cs",
+              "RelativeToolTip": "Fatorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:23:25.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Soma-Vetor\\Program.cs",
               "RelativeDocumentMoniker": "Soma-Vetor\\Program.cs",
-              "ToolTip": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Soma-Vetor\\Program.cs",
+              "ToolTip": "C:\\Users\\ghass\\OneDrive\\\u00C1rea de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Fun\u00E7\u00F5es recursivas\\Soma-Vetor\\Program.cs",
               "RelativeToolTip": "Soma-Vetor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T18:27:55.403Z",
               "EditorCaption": ""

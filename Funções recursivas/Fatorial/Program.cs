@@ -1,7 +1,7 @@
 ﻿using System;
 class Program
 {
-    static int Fatorial(int n)
+    static long Fatorial(long n)
     {
         if(n == 0)
         {
@@ -10,7 +10,7 @@ class Program
         return n * Fatorial(n - 1);
     }
 
-    static void ExibeFatorial(int n)
+    static void ExibeFatorial(long n)
     {
         Console.Write($"\nO fatorial de {n} é: {Fatorial(n)}");
     }
@@ -18,7 +18,7 @@ class Program
     static void Main(string[] args)
     {
         Console.Write("Informe qual o número você deseja saber o fatorial:\n\n");
-        if (int.TryParse(Console.ReadLine(), out int n) && n >= 0)
+        if (long.TryParse(Console.ReadLine(), out long n) && n >= 0)
 
             ExibeFatorial(n);
         else

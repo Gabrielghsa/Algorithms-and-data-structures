@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Fourier",
     "\\Soma-Vetor"
   ],
-  "SelectedNode": "\\Soma-Vetor\\Program.cs",
+  "SelectedNode": "\\Fourier\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

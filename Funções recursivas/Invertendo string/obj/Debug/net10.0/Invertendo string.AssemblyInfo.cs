@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Invertendo string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2cbb1933d4cf3b11fb9109e60180624513ec985")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a259828711c7d67ee884fef1be06694495ce29a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Invertendo string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Invertendo string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

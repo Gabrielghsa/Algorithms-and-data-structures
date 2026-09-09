@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maiorElemento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c153cda5483a1718d5d5b83856a7eff9e8e8392")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a259828711c7d67ee884fef1be06694495ce29a")]
 [assembly: System.Reflection.AssemblyProductAttribute("maiorElemento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maiorElemento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
