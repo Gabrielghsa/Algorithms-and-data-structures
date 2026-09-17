@@ -1,0 +1,16 @@
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.AssemblyInfoInputs.cache
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.AssemblyInfo.cs
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.sourcelink.json
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\bin\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.exe
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\bin\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.deps.json
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\bin\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.runtimeconfig.json
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\bin\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\bin\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.pdb
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\refint\Ativiidade Prática 2 - Funções Recursivas.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.pdb
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiidade Prática 2 - Funções Recursivas.genruntimeconfig.cache
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\ref\Ativiidade Prática 2 - Funções Recursivas.dll
+C:\Users\ghass\Algorithms-and-data-structures\Algorithms and Data Structures Assignments\Ativiidade Prática 2 - Funções Recursivas\obj\Debug\net10.0\Ativiida.BFA0E6AF.Up2Date
