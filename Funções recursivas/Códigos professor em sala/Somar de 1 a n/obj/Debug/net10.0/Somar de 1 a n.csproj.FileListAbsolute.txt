@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\bin\Debug\net10.0\Somar de 1 a n.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\bin\Debug\net10.0\Somar de 1 a n.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\bin\Debug\net10.0\Somar de 1 a n.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\bin\Debug\net10.0\Somar de 1 a n.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\bin\Debug\net10.0\Somar de 1 a n.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\refint\Somar de 1 a n.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\Somar de 1 a n.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Códigos professor em sala\Somar de 1 a n\obj\Debug\net10.0\ref\Somar de 1 a n.dll

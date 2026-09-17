@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj",
         "projectName": "Primeiro array-jagged",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\Primeiro array-jagged.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Array-Jagged\\Exemplo array-jagged\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

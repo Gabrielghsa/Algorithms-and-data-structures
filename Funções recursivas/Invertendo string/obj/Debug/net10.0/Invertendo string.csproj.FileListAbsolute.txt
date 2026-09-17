@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\bin\Debug\net10.0\Invertendo string.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\bin\Debug\net10.0\Invertendo string.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\bin\Debug\net10.0\Invertendo string.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\bin\Debug\net10.0\Invertendo string.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\bin\Debug\net10.0\Invertendo string.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\refint\Invertendo string.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\Invertendo string.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\AED\Algorithms-and-data-structures\Funções recursivas\Invertendo string\obj\Debug\net10.0\ref\Invertendo string.dll

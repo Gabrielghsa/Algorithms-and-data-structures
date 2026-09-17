@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ITwpmbq91AY=",
   "success": true,
   "projectFilePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Quiz\\Quiz.csproj",
+=======
+  "dgSpecHash": "TZIUr+pkOsY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Quiz\\Quiz.csproj",
+>>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
   "expectedPackageFiles": [],
   "logs": [
     {

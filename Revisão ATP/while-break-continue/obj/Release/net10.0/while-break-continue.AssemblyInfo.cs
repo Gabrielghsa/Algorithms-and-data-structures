@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("while-break-continue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+404851850f1fa3a85057a685adc38d705405cbaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf1eddbe2100c02552e7e2358f12818b21791d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("while-break-continue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("while-break-continue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

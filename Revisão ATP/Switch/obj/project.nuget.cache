@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UEtdrowuKg4=",
   "success": true,
   "projectFilePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
+=======
+  "dgSpecHash": "9VEpwdAY5Mw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
+>>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
   "expectedPackageFiles": [],
   "logs": [
     {
