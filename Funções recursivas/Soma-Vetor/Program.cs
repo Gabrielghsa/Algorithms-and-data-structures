@@ -10,7 +10,7 @@ class Program
     static void Main(string[] args)
     {
         
-        int[] vetor = {10, 20, 30, 40};
+        int[] vetor = {10, 20, 30, 80};
         int resultadoSoma = SomaVetor(vetor, 0, 0);
         Console.Write(resultadoSoma);
         Console.ReadKey();

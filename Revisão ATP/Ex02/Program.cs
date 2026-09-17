@@ -25,7 +25,7 @@ class Program
                 Console.WriteLine(i);
             }
         }
-
+        Console.ReadKey();
 
     }
 }

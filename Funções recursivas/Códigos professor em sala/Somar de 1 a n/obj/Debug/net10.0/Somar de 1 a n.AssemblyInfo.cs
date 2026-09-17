@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Somar de 1 a n")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a259828711c7d67ee884fef1be06694495ce29a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf1eddbe2100c02552e7e2358f12818b21791d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Somar de 1 a n")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Somar de 1 a n")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

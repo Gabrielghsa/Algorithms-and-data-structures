@@ -28,3 +28,4 @@ C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\2-Semestre\AED\Algor
 C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\2-Semestre\AED\Algorithms-and-data-structures\Funções recursivas\Fatorial\obj\Debug\net10.0\Fatorial.pdb
 C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\2-Semestre\AED\Algorithms-and-data-structures\Funções recursivas\Fatorial\obj\Debug\net10.0\Fatorial.genruntimeconfig.cache
 C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\2-Semestre\AED\Algorithms-and-data-structures\Funções recursivas\Fatorial\obj\Debug\net10.0\ref\Fatorial.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\2-Semestre\AED\Algorithms-and-data-structures\Funções recursivas\Fatorial\obj\Debug\net10.0\Fatorial.csproj.Up2Date
