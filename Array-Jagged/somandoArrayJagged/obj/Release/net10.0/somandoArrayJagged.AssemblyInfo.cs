@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("somandoArrayJagged")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a259828711c7d67ee884fef1be06694495ce29a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd83eefb81c7f25036be5eb5d6426bf85961238")]
 [assembly: System.Reflection.AssemblyProductAttribute("somandoArrayJagged")]
 [assembly: System.Reflection.AssemblyTitleAttribute("somandoArrayJagged")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

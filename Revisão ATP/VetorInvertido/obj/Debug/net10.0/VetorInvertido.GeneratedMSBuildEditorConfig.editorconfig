@@ -11,11 +11,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VetorInvertido
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\ghass\Algorithms-and-data-structures\Revisão ATP\VetorInvertido\
-=======
-build_property.ProjectDir = C:\Users\ghass\OneDrive\Área de Trabalho\Files\ADS-PUC\ADS\2-Semestre\AED\Algorithms-and-data-structures\Revisão ATP\VetorInvertido\
->>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
+build_property.ProjectDir = C:\Users\ghass\ATP-AED\AED\Algorithms-and-data-structures\Revisão ATP\VetorInvertido\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
