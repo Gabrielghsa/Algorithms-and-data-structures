@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj": {}
+    "C:\\Users\\ghass\\AED\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj": {
+    "C:\\Users\\ghass\\AED\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\AED\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj",
         "projectName": "Gerando Arquivo txt",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj",
+        "projectPath": "C:\\Users\\ghass\\AED\\Funções recursivas\\Gerando Arquivo txt\\Gerando Arquivo txt.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Gerando Arquivo txt\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\AED\\Funções recursivas\\Gerando Arquivo txt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

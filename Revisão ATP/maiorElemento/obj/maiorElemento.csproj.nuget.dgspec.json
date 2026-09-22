@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\maiorElemento\\maiorElemento.csproj": {}
+    "C:\\Users\\ghass\\AED\\Revisão ATP\\maiorElemento\\maiorElemento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\maiorElemento\\maiorElemento.csproj": {
+    "C:\\Users\\ghass\\AED\\Revisão ATP\\maiorElemento\\maiorElemento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\maiorElemento\\maiorElemento.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\AED\\Revisão ATP\\maiorElemento\\maiorElemento.csproj",
         "projectName": "maiorElemento",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\maiorElemento\\maiorElemento.csproj",
+        "projectPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\maiorElemento\\maiorElemento.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\maiorElemento\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\maiorElemento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

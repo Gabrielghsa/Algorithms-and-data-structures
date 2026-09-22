@@ -1,23 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "UEtdrowuKg4=",
+  "dgSpecHash": "ClAWcvx1JwU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
-=======
-  "dgSpecHash": "9VEpwdAY5Mw=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
->>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
+  "projectFilePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Switch\\Switch.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
+      "message": "Problem reading the cache file C:\\Users\\ghass\\AED\\Revisão ATP\\Switch\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Switch\\Switch.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Switch\\Switch.csproj",
+      "filePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Switch\\Switch.csproj",
       "targetGraphs": []
     }
   ]

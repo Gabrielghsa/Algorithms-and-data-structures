@@ -248,7 +248,7 @@ class Program
                         Console.Write($"{nums[i]}   ");
                     }
                     int qtdePares = QtdePares(nums, 0, 0);
-                    Console.Write($"\n\n==> A qtde de números pares no vetor é: {qtdePares}");
+                    Console.Write($"\n\n==> A quantidade de números pares no vetor é: {qtdePares}");
                     break; 
 
                 case 7:

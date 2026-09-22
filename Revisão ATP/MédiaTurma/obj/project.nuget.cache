@@ -1,23 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "xP6d9faNDQ8=",
+  "dgSpecHash": "jBIieML1b6c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
-=======
-  "dgSpecHash": "Xj7B/sGHZas=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
->>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
+  "projectFilePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\MédiaTurma\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
+      "message": "Problem reading the cache file C:\\Users\\ghass\\AED\\Revisão ATP\\MédiaTurma\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
+      "filePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\MédiaTurma\\MédiaTurma.csproj",
       "targetGraphs": []
     }
   ]

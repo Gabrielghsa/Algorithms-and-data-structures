@@ -1,23 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "QAR3VRYM0Ac=",
+  "dgSpecHash": "bmZSt8R8P2s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
-=======
-  "dgSpecHash": "kvfHC49bAzg=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
->>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
+  "projectFilePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Repetições\\Repetições.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
+      "message": "Problem reading the cache file C:\\Users\\ghass\\AED\\Revisão ATP\\Repetições\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Repetições\\Repetições.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Repetições\\Repetições.csproj",
+      "filePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Repetições\\Repetições.csproj",
       "targetGraphs": []
     }
   ]

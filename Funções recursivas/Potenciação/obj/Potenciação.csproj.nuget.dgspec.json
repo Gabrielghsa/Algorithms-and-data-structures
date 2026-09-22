@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Potenciação\\Potenciação.csproj": {}
+    "C:\\Users\\ghass\\AED\\Funções recursivas\\Potenciação\\Potenciação.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Potenciação\\Potenciação.csproj": {
+    "C:\\Users\\ghass\\AED\\Funções recursivas\\Potenciação\\Potenciação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Potenciação\\Potenciação.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\AED\\Funções recursivas\\Potenciação\\Potenciação.csproj",
         "projectName": "Potenciação",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Potenciação\\Potenciação.csproj",
+        "projectPath": "C:\\Users\\ghass\\AED\\Funções recursivas\\Potenciação\\Potenciação.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Potenciação\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\AED\\Funções recursivas\\Potenciação\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,23 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "4PM53Ob5ef0=",
+  "dgSpecHash": "5zwlIKTZh+E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
-=======
-  "dgSpecHash": "+wy5g29uUZg=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
->>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
+  "projectFilePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
+      "message": "Problem reading the cache file C:\\Users\\ghass\\AED\\Revisão ATP\\SériesNuméricas\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
+      "filePath": "C:\\Users\\ghass\\AED\\Revisão ATP\\SériesNuméricas\\SériesNuméricas.csproj",
       "targetGraphs": []
     }
   ]

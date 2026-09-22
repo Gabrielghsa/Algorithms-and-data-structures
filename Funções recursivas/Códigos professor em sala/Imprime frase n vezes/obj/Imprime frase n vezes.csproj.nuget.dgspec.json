@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj": {}
+    "C:\\Users\\ghass\\AED\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj": {
+    "C:\\Users\\ghass\\AED\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\AED\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj",
         "projectName": "Imprime frase n vezes",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj",
+        "projectPath": "C:\\Users\\ghass\\AED\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\Imprime frase n vezes.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\AED\\Funções recursivas\\Códigos professor em sala\\Imprime frase n vezes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

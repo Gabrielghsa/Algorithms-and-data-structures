@@ -14,19 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\Ex01.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\AED\\Revisão ATP\\Ex01\\Ex01.csproj",
       "projectName": "Ex01",
-      "projectPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\Ex01.csproj",
+      "projectPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Ex01\\Ex01.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\Ex01.csproj",
-      "projectName": "Ex01",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\Ex01.csproj",
-      "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Files\\ADS-PUC\\ADS\\2-Semestre\\AED\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\obj\\",
->>>>>>> 0d42a487cbc8d3cfeaee908ac79e0d060ef2c0ea
+      "outputPath": "C:\\Users\\ghass\\AED\\Revisão ATP\\Ex01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -82,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -365,7 +357,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ghass\\Algorithms-and-data-structures\\Revisão ATP\\Ex01\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+      "message": "Problem reading the cache file C:\\Users\\ghass\\AED\\Revisão ATP\\Ex01\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
     }
   ]
 }
