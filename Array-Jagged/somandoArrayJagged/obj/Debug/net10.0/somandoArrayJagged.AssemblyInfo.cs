@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("somandoArrayJagged")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31603ea9f73f3579ba416fa4e508918ad0db2d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fd1f14d174528f432d1e9010c6b3b9fadb4a8bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("somandoArrayJagged")]
 [assembly: System.Reflection.AssemblyTitleAttribute("somandoArrayJagged")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
