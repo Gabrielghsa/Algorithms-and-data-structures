@@ -22,14 +22,13 @@ class Program
         public string Autor
         {
             get { return _Autor; }
-
         }
 
         public bool Disponivel
         {
             get { return _Disponivel; }
-
         }
+
         public Livro(string isbn, string titulo, string autor)
         {
             _Isbn = isbn;
@@ -67,8 +66,6 @@ class Program
         private string _Nome;
         private string _Email;
 
-
-
         public string Matricula
         {
             get { return _Matricula; }
@@ -94,24 +91,24 @@ class Program
             _Email = email;
         }
 
-        public void ExibirDados()
+        public void ExibirDados(Usuario x)
         {
-            Console.Write($"Usuário {Nome}\n");
-            Console.Write($"Matricula {Matricula}\n");
-            Console.Write($"Email {Email}");
+            Console.Write($"Usuário {x.Nome}\n");
+            Console.Write($"Matricula {x.Matricula}\n");
+            Console.Write($"Email {x.Email}");
         }
 
         public void PegarLivro(Livro livro)
         {
             livro.Emprestar();
         }
-
-
     }
-
 
     static void Main(string[] args)
     {
         Livro Metamorfose = new Livro("3456", "A Metarmofose", "Franz Kafka");
+        Usuario cleito = new Usuario("222", "Cleito", "cleiro@.com");
+        Usuario.ExibirDados(cleito);
+        Console.ReadKey();
     }
 }
