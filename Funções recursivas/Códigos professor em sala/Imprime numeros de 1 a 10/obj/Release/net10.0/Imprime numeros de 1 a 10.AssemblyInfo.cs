@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Imprime numeros de 1 a 10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f182a9440853bba54b9b5389abcf6df2e9b6f926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b2f17f367c61d90da0627be40e89d8472d6258")]
 [assembly: System.Reflection.AssemblyProductAttribute("Imprime numeros de 1 a 10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Imprime numeros de 1 a 10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

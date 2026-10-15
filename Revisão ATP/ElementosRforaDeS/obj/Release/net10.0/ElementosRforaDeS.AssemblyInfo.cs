@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElementosRforaDeS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd83eefb81c7f25036be5eb5d6426bf85961238")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b2f17f367c61d90da0627be40e89d8472d6258")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElementosRforaDeS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElementosRforaDeS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

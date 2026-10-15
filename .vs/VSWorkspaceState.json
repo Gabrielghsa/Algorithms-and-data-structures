@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Introdução a POO\\Funcionario"
+    "\\Listas",
+    "\\Listas\\exDoLivro",
+    "\\Listas\\exDoLivro\\deletar"
   ],
-  "SelectedNode": "\\Atividades Práticas",
+  "SelectedNode": "\\Listas\\exDoLivro\\deletar\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
