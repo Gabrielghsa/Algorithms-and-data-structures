@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Listas",
+    "\\Listas\\BuscaEstoque",
     "\\Listas\\exDoLivro",
-    "\\Listas\\exDoLivro\\deletar"
+    "\\Listas\\exDoLivro\\deletar",
+    "\\Listas\\Lista-Jogos",
+    "\\Listas\\Operações de listas usando vetor"
   ],
-  "SelectedNode": "\\Listas\\exDoLivro\\deletar\\Program.cs",
+  "SelectedNode": "\\Listas\\Lista-Jogos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
