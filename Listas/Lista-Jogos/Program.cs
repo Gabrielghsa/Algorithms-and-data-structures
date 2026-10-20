@@ -8,15 +8,27 @@ class Program
         private string[] _ListaJogos = new string[50];
         private int _Quantidade;
 
+        public int InserirInicio(string novoItem)
+        {
+            if(_Quantidade < _ListaJogos.Length)
+            {
+                for(int i = _Quantidade; i > 0; i--)
+                    _ListaJogos[i] = _ListaJogos[i - 1];
+                _ListaJogos[0] = novoItem;
+                _Quantidade++;
+            }
+            return _Quantidade;
+        }
+
         public int InserirFim(string novoItem)
         {
-            if (_Quantidade >= _ListaJogos.Length)
-                Console.WriteLine("Sem espaço suficiente! Apague um itém da lista. ");
-            else
+            if (_Quantidade < _ListaJogos.Length)
             {
                 _ListaJogos[_Quantidade] = novoItem;
                 _Quantidade++;
             }
+            else
+                Console.WriteLine("Sem espaço suficiente! Apague um itém da lista. ");
             return _Quantidade;
         }
 
@@ -31,6 +43,18 @@ class Program
                 _Quantidade++;
 
                 Console.WriteLine("Jogo inserido na posição!");
+            }
+            return _Quantidade;
+        }
+
+        public int RemoverInicio()
+        {
+            if(_Quantidade != 0)
+            {
+                string x = _ListaJogos[0];
+                _Quantidade--;
+                for (int i = 0; i < _Quantidade; i++)
+                    _ListaJogos[i] = _ListaJogos[i + 1];
             }
             return _Quantidade;
         }
@@ -102,6 +126,23 @@ class Program
             Jogos.InserirFim(Console.ReadLine());
 
         } while (Console.ReadKey().Key != ConsoleKey.Escape);
+
+        Jogos.ExibirLista();
+
+        Console.WriteLine("\n");
+
+
+        Console.WriteLine("Digite o nome do jogo: ");
+        string item = Console.ReadLine();
+        
+        Jogos.InserirInicio(item);
+
+
+        Jogos.ExibirLista();
+
+        Jogos.RemoverInicio();
+
+        Console.WriteLine("\n");
 
         Jogos.ExibirLista();
 

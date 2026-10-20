@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Listas",
-    "\\Listas\\BuscaEstoque",
-    "\\Listas\\exDoLivro",
-    "\\Listas\\exDoLivro\\deletar",
     "\\Listas\\Lista-Jogos",
-    "\\Listas\\Operações de listas usando vetor"
+    "\\Listas\\Listas Dinamicas",
+    "\\Listas\\Listas Dinamicas\\ListaSENO"
   ],
-  "SelectedNode": "\\Listas\\Lista-Jogos\\Program.cs",
+  "SelectedNode": "\\Listas\\Listas Dinamicas\\ListaSENO\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
